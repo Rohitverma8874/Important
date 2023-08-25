@@ -1,0 +1,466 @@
+out of scope from L1 side, hence assigning to concern Team.
+
+Thank you for testing the Infinite softphone solution.
+
+Your login is:  RVerma 
+
+Your password is: 2023@Jul04
+
+The direct URL to use the softphone is: https://gannett-ics.my.connect.aws/ccp-v2/softphone
+
+ep-akumar5                ep-PChauhan1
+Accenture@#1234#           Mainpuri205001@         SREQ1251065        wmic csproduct       INC4557897,INC4561452,INC4573948,SREQ1238272 
+==========================================================================================================================================================
+https://vtt.gannett.com/                                       TOP-COL-O365 Escalation Support,ESS-EUC-Support,TOP-SSV-User Lifecycle Services,INC4569238
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACKNOWLEDGMENT  EMAIL  SCRIPT.                            INC4565728,INC4565763,SREQ1236812
+
+your request is created now once your manager approved the request then you have access in adobe.
+
+If you are facing issue in future ping me directly or you can open ticket Thanks & Regards, Gannett IT.
+*********************************************************************************************************
+Hi 
+Greetings of the Day,
+
+This is in regards to the Ticket For - (INC)
+We will reach you out regarding the (Issue)
+Please let us know once you are available for support.
+
+Thanks and Regards 
+Gannett Service desk. 
+---------------------------------------------------------------------------------------------
+Escalation Templet 
+
+
+Hello team, 
+Issue: 
+Troubleshooting Steps: 
+ 
+Connection type (LAN/VPN/WiFi/Ethernet): 
+Operating System (MAC/WIN): 
+Machine Name/Configuration Item:  
+Secondary Contact Number: 
+Preferred Call Back Date & Time: 
+Please check and assist the user. 
+ 
+Thanks & Regards,
+Gannett IT. 
+---------------------------------------------------------------------------------------------
+escalate Mail 
+
+Hi
+
+We are escalate this request in next level team.
+asap team will connect you.
+
+Thanks & Regards,
+Gannett IT.
+=================================================
+Hi
+ 
+We are escalate this request to consort team.
+asap team will connect you.
+
+Thanks & Regards,
+Gannett IT.
+----------------------------------------------------------------------------------------------
+Hello NAshwood,
+
+Thank you for contacting Gannett IT.
+This regarding INC- INC4520784
+I have reset  the NCS password and security question.
+Please try to log in and confirm us back.
+
+Kindly open the below link for password.
+https://vtt.ghm.io/index.php?act=ZLD2HfsvEfcOsJ3Y5I&key=NsnYNrYoRgJqbPPu71 
+URL will be valid for single use.
+
+Thanks & Regards,
+Gannett IT.
+--------------------------------------------------------------------------------------------
+When You Reduce the Priority of any ticket:
+
+>>>Additional Comment
+
+Hello
+Hope you are doing good!
+
+This is regarding the Ticket Number :
+We will reach you out regarding the same.
+Do help us with any error snap if possible and let us know once you are available for support.
+Please let me know what exact issue you are facing. 
+Also provide me the good time to connect with you.
+
+Thanks & Regards,
+Gannett IT
+
+>>Also mention  the following points in the work note
+>>>Issue
+>>>Reason why you reducing the priority
+----------------------------------------------------------------------------------------------
+Hi user,
+
+With reference to your request, we see that your OKTA account was suspended
+Hence , we have unlocked the account successfully/ Set your account to active.
+We have reset your MFA successfully
+Please try to login to your account let us know the status
+
+This ticket is on hold awaiting your response
+
+
+Thanks & Regards,
+Gannett IT
+
+-----------------------------------------------------------------------------
+may i go head and close the ticket.
+----------------------------------------------------------------------------------------------
+Hello NAshwood,
+
+Thank you for contacting Gannett IT.
+This regarding INC-INC4520784
+We have reset  okta  password  .
+for your confirmation Okta issue is resolved.
+after that for your confirmation we closed the ticket.
+
+Thanks & Regards,
+Gannett IT.
+---------------------------------------------------------------------------------------------
+1st strike
+
+Hi,
+Thank you for contacting Gannett IT.
+This is regarding ( ticket no )
+We tried to reach you on teams and over email however there is no luck.
+Kindly share your next availability so that we can help you.
+
+Thanks & Regards,
+Gannett IT
+---------------------------------------------------------------------------------------------
+2nd strike
+
+Hi,
+Thank you for contacting Gannett IT.
+This is regarding ( ticket no )
+We are trying to reach you on teams and over email however there is no luck.
+Kindly share your next availability so that we can help you.
+
+Thanks & Regards,
+Gannett IT
+
+---------------------------------------------------------------------------------------------- 
+3rd strike
+
+Hi,
+
+Thank you for contacting Gannett IT.
+This is regarding ( ticket no )
+We tried to reach you on teams and over email multiple times however there is no luck.
+Kindly share your next availability so that we can help you.
+Note- No response within 24 hour will lead to closer of this ticket.
+however you can take reference from this .
+
+Thanks & Regards,
+Gannett IT
+------------------------------------------------------------------------------------------------
+Final Close
+
+
+Hi,
+
+Thank you for contacting Gannett IT.
+This is the closure email for the ticket number (INC)
+We tried to reaching you through the email and teams. Unfortunately we have not received any response for the follow up emails sent.
+We are closing this ticket.
+
+Note- Please raise the new ticket by clicking below link.
+https://gannett.service-now.com/sp
+
+Thanks & Regards,
+Gannett IT
+---------------------------------------------------------------------------------------------------------------------------------------
+Work note
+---------------
+Try to connect  user via Teams.
+user is not available.
+We follow 3 strike rule and we does not get any response.
+after that we close the ticket.
+
+--------------------------------------------------------------------------------------
+P1 ticket first mail
+------------------------
+Hello
+Hope you are doing good!
+
+Its regarding the issue you are facing. We will reach you out regarding the same.
+Do help us with any error snap if possible and let us know once you are available for support.
+
+Thanks & Regards,
+Gannett IT
+------------------------------------------------------------------------------------------------
+Hi
+
+Thanks for contacting Gannett Helpdesk.
+We are tried to reach you over the Teams but no getting any response. Please share your available time to work on this.
+We will be happy to assist you
+
+Thanks & Regards,
+Gannett IT
+
+------------------------------------------------------------------------------------------------------ 
+
+Hello,
+
+We have received your priority ticket regarding. 
+I am trying to reach you at teams to remote and help you with the issue,
+meanwhile please provide the screenshot of error message
+
+Thanks & Regards,
+Gannett IT
+ 
+-------------------------------------------------------------------------------------------------------
+Hello User,
+ 
+We have successfully reset your NCS-Circulation (Naviga/DTI) password and security answers
+and will kindly request you to please copy and paste the below link in your web browser and 
+find out the password and log into Naviga/DTI.
+
+Your username for NCS-Circulation/Naviga/DTI is -------
+
+If you need any more assistance then kindly please do let us know and we will be happy to assist you.
+
+
+Thanks & Regards,
+Gannett IT.
+---------------------------------------------------------------------------------------------------------------
+
+SREQ1212538--- check this ticket for reference
+
+Hi Susan Rojas,
+
+We have reaching out to you regarding your SREQ1211579 over teams .
+Your password have been changed and mail have been sent for the same please confirm is it working for you .
+ 
+
+Thanks & Regards,
+Gannett IT
+----------------------------------------------------------------------------------------------------------------------
+Command to slow system slow or heating issues
+KB31176
+sfc /scannow /f
+
+chkdsk c: /f /r
+
+DISM /Online /Cleanup-Image /ScanHealth (scan to check for corruption)
+
+DISM /Online /Cleanup-Image /CheckHealth (scan to check if image is repairable)
+
+DISM /Online /Cleanup-Image /RestoreHealth (repairs corruption using local image)
+
+---------------------------------------------------------------------------------------------------
+Hello,
+
+Its regarding the computer performance, we tried to reach you via teams no responses,
+ let us know once you are available for support.
+Please try to do the reboot the machine by pressing the power button for 20 sec and release it.
+
+Thanks & Regards,
+Gannett IT
+----------------------------------------------------------------------------------------------------
+Ipconfig /flushdns
+  netsh int ip reset
+ipconfig /release
+  ipconfig /renew
+-------------------------------------------------------------------------------------------------------
+Three Strick Rule 
+
+ 
+
+1st strike  
+ 
+Hi , 
+ 
+Thank you for contacting Gannett IT 
+ 
+This is the 1st of 3rd follow up emails for the ticket (ticket number) 
+ 
+We tried to reaching you through the Teams and email address provided unfortunately, we haven't received any response. 
+ 
+We would appreciate if you could share a convenient time to contact you so that we can work towards the resolution of the issue. 
+ 
+The ticket is on hold awaiting your response. 
+ 
+Thank you! 
+ 
+Thanks & Regards,
+Gannett IT. 
+ 
+----------------------------------- 
+2nd Strick 
+ 
+Hi , 
+ 
+Thank you for contacting Gannett IT. 
+ 
+This is the 2st of 3rd follow up emails for the ticket (ticket number)) 
+ 
+We tried to reaching you through the Teams and email address provided unfortunately, we haven't received any response. 
+ 
+We would appreciate if you could share a convenient time to contact you so that we can work towards the resolution of the issue. 
+ 
+The ticket is on hold awaiting your response. 
+ 
+Thank you! 
+ 
+Thanks & Regards,
+Gannett IT. 
+ 
+-------------------------------------------------- 
+3rd strike 
+
+ 
+Hi , 
+ 
+Thank you for contacting Gannett IT. 
+ 
+This is the final follow up emails for the ticket (ticket number)) 
+ 
+We tried to reaching you through the Teams and email address provided unfortunately, we haven't received any response. 
+ 
+We would appreciate if you could share a convenient time to contact you so that we can work towards the resolution of the issue. 
+ 
+Note- No response within 24 hour will lead to closer of this ticket. 
+ 
+Thank you! 
+ 
+Thanks & Regards,
+Gannett IT. 
+------------------------------------------------------------- 
+Closing- 
+ 
+Hi, 
+ 
+Thank you for contacting Gannett IT. 
+ 
+This is the closure email for the ticket number (INC) 
+ 
+We tried to reaching you through the email and teams. Unfortunately we have not received any response for the follow up emails sent. 
+ 
+We are closing this ticket. 
+ 
+Note- Please raise the new ticket by clicking below link. 
+https://gannett.service-now.com/sp 
+ 
+Thanks & Regards,
+Gannett IT
+-----------------------------------------------------------
+Password sharing Templet.  
+
+Hello , 
+ 
+Thank you for contacting Gannett IT. 
+This regarding SRQ- 
+I have rest  the NCS password and security question. 
+Kindly open the below link for password. 
+https://vtt.ghm.io/index.php?act=0peD4FkQ2dGvR4GUZS&key=DQoUmozLuMAyufNS9k 
+ 
+Please try to log in and confirm us back. 
+ 
+Thanks & Regards,
+Gannett IT. 
+------------------------------------------------------------------------------------------------
+If user is not response then send this mail 
+
+Hello 
+Hope you are doing good! 
+Its regarding the issue you are facing. We will reach you out regarding the same. 
+Do help us with any error snap if possible and let us know once you are available for support. 
+
+Please let me know what exact issue you are facing. 
+Also provide me the good time to connect with you. 
+ 
+Thanks & Regards, 
+Gannett IT 
+=====================================================================
+Hello team,
+
+Issue: internet connectivity
+Troubleshooting Steps:
+>>connect with the user on call.
+>>gather the information about the issue.
+>>as per user says me user is not able to connect WIFI .
+>>user also do not have Lan cable.
+>>guide the user on call to connect the system with Ethernet.
+>>as per user ethernet is disabled user try to enable this option it want admin credentials.
+>> not able to take remote of user machine.
+
+Connection type (LAN/VPN/WiFi/Ethernet):NA
+Operating System (MAC/WIN):WIN
+Machine Name/Configuration Item: NA
+Secondary Contact Number:(219) 779-3214. 
+Preferred Call Back Date & Time:
+Please check and assist the user.
+
+Thanks & regards.
+Gannett IT.
+----------------------------------------------------------------------------------
+%temp%
+
+=====================================================================================
+KB28703 - Manually Install a Network or Home Printer on a Mac
+KB29461 - How to Add a Printer (Mac)
+KB40416 - How to Remove/Forget a Wireless Network on Mac
+KB32339 - How to delete and re-add your email account in Outlook (Mac Office 365)
+KB24613 - How to Install Software on a Mac using Jamf Pro
+KB51953 - How to install global protect in mac
+KB64987- How To Sync Password When a User is Unable to Log in to Their Mac.
+KB21782 - Okta - Change and Sync your Okta Password on a Mac
+KB67531-How to fix the greyed out password sync option in Enterprise Connect on Mac
+KB22699 -Install Office Printer on a Mac by IP Address
+KB35291-Workstation Admin Account Guide for Account Holders (Mac)
+KB49924-How to submit a request for Workstation Administrator (WA) Access
+KB43652-Photo Mechanic - How to request access
+KB59762-How to fix my Mac computer time
+KB50774-How to appove MDM Profile on newly-enrolled Mac
+KB28799-Manually enrolling Mac in Jamf Pro
+KB28117 -Intune - How to Enroll an Apple (iOS) Mobile Device
+KB28799- Manually enrolling Mac in Jamf Pro
+KB51812 - SCCM - How To Manually Repair or Install SCCM Client
+KB24096- Intune: How to enroll a Android Mobile Device
+
+https://gannett.service-now.com/sys_report_display.do?sysparm_report_id=14559c8cdb6f6f4049c396a9db96193b
+===================================================================================================================
+please take care of this ticket.
+
+As per the discussion with the user on teams user will be available in between (10AM to 8PM EST) (7:30PM 5:30AM IST) ticket Number (INC4600419)
+
+Please assign the ticket to next available agent and check on priority.
+================================================================================================================================================
+Hi All,
+Please find the tickets status below that was assigned today (01/08/2023).
+07\31\2023	Shift ( A )
+Total Ticket Start of the Day	0
+Total Ticket Worked during the day	2
+Total Ticket Closed	1
+Total Ticket Acknowledged yet to work on	0
+Tickets needing attention	0
+ 
+Thanks & Regards,
+Rohit Verma
+====================================================================================================================
+Everyone 3rdParty Installation
+
+KB31856 : Guidelines for Software Requests
+
+https://gannett.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsys_kb_id%3D8f52b90c1bf529105bc20f6e6e4bcb4c
+
+KB29454: Software Installation Standard Operating Procedure (S.O.P.)
+
+https://gannett.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsys_kb_id%3D0219a9bb1bda01507b7e6288bd4bcbe7 
+
+ 
+
+
+
+
+
+ 
